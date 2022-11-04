@@ -14,6 +14,7 @@ redis on k8s
 ![输入图片说明](https://foruda.gitee.com/images/1667579430608982520/75593f31_1350539.png "屏幕截图")
 
  **3、redis 集群模式** 
+
 ![输入图片说明](https://foruda.gitee.com/images/1667579473159366947/cdfb0673_1350539.png "屏幕截图")
 
 #### 安装教程
