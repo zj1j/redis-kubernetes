@@ -1,6 +1,7 @@
 # redis-on-k8s
 
-#### 一、Redis 介绍
+## 一、概述
+
 > REmote DIctionary Server(`Redis`) 是一个由 Salvatore Sanfilippo 写的 key-value 存储系统，是跨平台的**非关系型数据库**。
 
 Redis有三种集群模式：主从模式，Sentinel（哨兵）模式，Cluster模式，这三种模式环境编排部署都会在本文章介绍与实战操作。
